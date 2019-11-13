@@ -22,4 +22,5 @@ Link here : https://insights.stackoverflow.com/survey.
 This project is to know what is the popular programming languange in 2019.
 I also compare the data from 2016-2019.
 The result is Java, C and JavaScript is the most popular languange in 2019.
+Result can be found in Medium : https://medium.com/p/f8ecf06acede
 
