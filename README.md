@@ -15,7 +15,7 @@ just for study and have fun coding!
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation <a name="projectmotivation"></a>
-For this project I use data from stackoverflow anual reports year 2016-2019. 
+For this project I use data from stackoverflow annual reports year 2016-2019. 
 Link here : https://insights.stackoverflow.com/survey.
 
 This project is made to answer these 3 questions :
@@ -32,4 +32,4 @@ I also compare the data from 2016-2019.
 Result can be found on Medium link [here](https://medium.com/p/f8ecf06acede/edit).
 
 ## Licensing, Authors, and Acknowledgements  <a name="licensingauthorsandacknowledgements"></a>
-Thanks to stackoverflow data survey from 2016-2019. This data is very helpful to understand and presict the 3 business questions I have in mind.
+Thanks to stackoverflow data survey from 2016-2019. This data is very helpful to understand the 3 business questions I have in mind.
