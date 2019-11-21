@@ -6,9 +6,9 @@ just for study and have fun coding!
 
 1. [Installation](#installation)
 2. [Project Motivation](#projectmotivation)
-3. [File Descriptions]
+3. [File Descriptions](#filedescriptions)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#Licensing, Authors, and Acknowledgements)
+5. [Licensing, Authors, and Acknowledgements](#licensingAuthorsAndAcknowledgements)
 
 ## Installation <a name="installation"></a>
 
