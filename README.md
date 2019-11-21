@@ -5,8 +5,10 @@ just for study and have fun coding!
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Dataset](#datasets)
-3. [Results](#results)
+2. [Project Motivation](#projectmotivation)
+3. [File Descriptions]
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#Licensing, Authors, and Acknowledgements)
 
 ## Installation <a name="installation"></a>
 
