@@ -20,7 +20,7 @@ Link here : https://insights.stackoverflow.com/survey.
 
 This project is made to answer these 3 questions :
 1. What is the most popular programming language in 2019 ?
-2. What is the fastest growing programming language from 2016 till 2019?
+2. What is the fastest growing programming language from 2016 until 2019?
 3. What is the highest paying programming language?
 
 ## File Descriptions <a name="filedescriptions"></a>
