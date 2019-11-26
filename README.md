@@ -29,7 +29,7 @@ There are 3 python script here, each will answer above business questions
 ## Result <a name="results"></a>
 This project is to know what is the popular programming languange in 2019.
 I also compare the data from 2016-2019.
-Result can be found on Medium link [here](https://medium.com/p/f8ecf06acede/edit).
+Result can be found on Medium link [here](https://medium.com/@dhanys24/most-popular-programming-language-2019-f8ecf06acede).
 
 ## Licensing, Authors, and Acknowledgements  <a name="licensingauthorsandacknowledgements"></a>
 Thanks to stackoverflow data survey from 2016-2019. This data is very helpful to understand the 3 business questions I have in mind.
